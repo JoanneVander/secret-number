@@ -1,4 +1,3 @@
-
 //Para comentar o código
  
 let listaDeNumerosSorteados = [];
