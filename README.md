@@ -1,7 +1,6 @@
 #                                                                           🚀 Bem-vindos à Aventura da Adivinhação Numérica! 🔢
   
-## E aí, mentes curiosas e amantes de desafios! Preparados para testar seus instintos e mergulhar no universo da adivinhação? Apresento a vocês o Adivinhe o Número Secreto, 
-## um jogo que vai te fazer quebrar a cabeça (de um jeito divertido, claro!) e sentir a adrenalina da descoberta! 😉
+## E aí, mentes curiosas e amantes de desafios! Preparados para testar seus instintos e mergulhar no universo da adivinhação? Apresento a vocês o Adivinhe o Número Secreto, um jogo que vai te fazer quebrar a cabeça (de um jeito divertido, claro!) e sentir a adrenalina da descoberta! 😉
 
 ## O que te espera nessa jornada?
 
